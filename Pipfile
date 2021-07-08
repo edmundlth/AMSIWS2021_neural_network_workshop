@@ -10,6 +10,9 @@ numpy = "*"
 pandas = "*"
 torch = "*"
 torchvision = "*"
+matplotlib = "*"
+sklearn = "*"
+seaborn = "*"
 
 [dev-packages]
 
