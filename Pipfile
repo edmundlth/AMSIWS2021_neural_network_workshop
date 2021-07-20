@@ -13,6 +13,7 @@ torchvision = "*"
 matplotlib = "*"
 sklearn = "*"
 seaborn = "*"
+pyro-ppl = "*"
 
 [dev-packages]
 
